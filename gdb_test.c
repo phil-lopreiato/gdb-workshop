@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main(){
+int 
+main(void)
+{
  /* Things that cause segfaults:
   * Dereferencing NULL pointers – this is special-cased by memory management hardware
     Attempting to access a nonexistent memory address (outside process's address space)
