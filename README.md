@@ -1,15 +1,4 @@
 gdb-workshop
 ============
 
-Learn How to GDB. GDB is an incredibly powerful C/C++ debugging tool. Learn to use it at its full potential - it'll save lots of time and tears.
-
-Useful Links
-------------
-
-GDB Homepage: http://www.gnu.org/software/gdb/ 
-
-RMS's GDB Tutorial: http://www.unknownroad.com/rtfm/gdbtut/ 
-
-GDB Cheat Sheat: http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
-
-GDB to LLDB Map: http://lldb.llvm.org/lldb-gdb.html 
+Code accompanying a GDB workshop. Take a look at the [project site](http://phil-lopreiato.github.io/gdb-workshop/) for more information. 
