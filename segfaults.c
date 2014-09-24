@@ -3,7 +3,8 @@
 int 
 main(void)
 {
-    char *string;
+    printf("Welcome!");
+    char *string = "meow";
     printf("Our string is: %s\n", *string);
     *string = 'W';
     printf("Animals make: %s\n", string);
